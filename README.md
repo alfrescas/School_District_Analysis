@@ -6,6 +6,12 @@ The school board has a suspicion that there has been academic dishonesty; specif
 
 ## Results:
 - How was the district summary affected?
-AS shown in the visual below, it appears that the district was affectes by changes in the averaage math, reading, and overall passing by roughly 2% less than the original dataset.
+As shown in the visual below, it appears that the district was affectes by changes in the averaage math, reading, and overall passing by roughly 2% less than the original dataset.
 <img width="641" alt="image" src="https://user-images.githubusercontent.com/107371010/203661294-98e0bf14-2932-44b2-9e90-ee64523aeb1b.png">
 
+- How is the school summary affected?
+According to the data, when ajusting the 9th grade scores the percentages increase by 25%.
+
+<img width="747" alt="image" src="https://user-images.githubusercontent.com/107371010/203661666-5559641e-c657-493d-9ac7-ddad01fcbef4.png">
+
+- How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
